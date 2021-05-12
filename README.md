@@ -1,2 +1,2 @@
-# HitTheBall
-Hit the ball with rocket. Very simple game.
+# RocketToBall
+Fly a rocket and destroy the ball.
