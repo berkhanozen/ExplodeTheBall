@@ -1,2 +1,2 @@
-# RocketToBall
-Fly a rocket and destroy the ball.
+# Explode The Ball
+Fly a rocket and explode the ball.
